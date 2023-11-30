@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950899123313",
+    "project_id": "screen-recorder-36c9a",
+    "storage_bucket": "screen-recorder-36c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950899123313:android:aec485d551d716df23e7d0",
+        "android_client_info": {
+          "package_name": "com.abhinav.screenrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950899123313-tegun8pa3i2e55r3qfen6gh229vjgnll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8hc1om4L4kNB63Cz3yLZMbAnlw2QKPbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950899123313-tegun8pa3i2e55r3qfen6gh229vjgnll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
